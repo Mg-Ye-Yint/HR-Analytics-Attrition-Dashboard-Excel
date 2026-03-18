@@ -174,3 +174,5 @@ Include employee performance metrics
 
 Feel free to fork this repository and improve the dashboard or add new features.
 
+![Dashboard](Dashboard.png)
+
